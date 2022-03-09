@@ -8,6 +8,7 @@
 import UIKit
 
 struct TableViewModel{
+    var labelString : String
     
 }
 
